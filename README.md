@@ -1,2 +1,1 @@
-# shared-libraryrepo
-jenkins shared library repo
+# team5-shared-library
